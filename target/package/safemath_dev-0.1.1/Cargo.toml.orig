@@ -1,0 +1,18 @@
+[package]
+name = "safemath_dev"
+version = "0.1.1"
+edition = "2021"
+authors = ["lehongvo"]
+description = "Math operations with safety checks that throw on error"
+repository = "https://github.com/lehongvo/lib_rust_dev/tree/main/src"
+license = "MIT"
+
+[dependencies]
+
+[profile.dev]
+opt-level = 1
+debug = true
+
+[profile.release]
+opt-level = 3
+debug = false

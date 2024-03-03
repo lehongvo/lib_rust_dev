@@ -1,0 +1,1 @@
+/Users/nguyenductrang/Desktop/Contract/lib/lib_rust_dev/target/package/safemath_dev-0.1.1/target/debug/libsafemath_dev.rlib: /Users/nguyenductrang/Desktop/Contract/lib/lib_rust_dev/target/package/safemath_dev-0.1.1/src/lib.rs /Users/nguyenductrang/Desktop/Contract/lib/lib_rust_dev/target/package/safemath_dev-0.1.1/src/math/mod.rs

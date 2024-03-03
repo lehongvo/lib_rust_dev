@@ -1,0 +1,1 @@
+/Users/nguyenductrang/Desktop/Contract/lib/lib_rust_dev/target/debug/libsafe_math.rlib: /Users/nguyenductrang/Desktop/Contract/lib/lib_rust_dev/src/lib.rs /Users/nguyenductrang/Desktop/Contract/lib/lib_rust_dev/src/math/mod.rs
