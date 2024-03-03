@@ -90,7 +90,7 @@
     /// successful and the result is correct, otherwise it returns `None` if the `right_value` is 0 or if
     /// the division result is incorrect.
     pub fn try_div(left_value: u128, right_value: u128) -> Option<u128> {
-        if right_value == 0 {
+        if right_value == 0 || left_value == 0 {
             return None;
         }
         let result_mut = left_value / right_value;
