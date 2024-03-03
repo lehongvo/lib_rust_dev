@@ -3,5 +3,5 @@
 version = 3
 
 [[package]]
-name = "safe_math"
+name = "safemath_dev"
 version = "0.1.0"

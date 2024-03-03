@@ -15,8 +15,9 @@ name = "safe_math"
 version = "0.1.0"
 authors = ["lehongvo"]
 description = "Math operations with safety checks that throw on error"
+readme = "README.md"
 license = "MIT"
-repository = "https://github.com/lehongvo/RUST_BLOCKCHAIN_TUTORIAL/tree/main/library-mod"
+repository = "https://github.com/lehongvo/lib_rust_dev/tree/main/src"
 
 [profile.dev]
 opt-level = 1

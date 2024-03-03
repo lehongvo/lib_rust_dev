@@ -39,7 +39,7 @@
     /// with `if left_value >= left_value` instead of `if result_sub >= left
     pub fn try_sub(left_value: u128, right_value: u128) -> Option<u128> {
         let result_sub = left_value - right_value;
-        if left_value >= left_value {
+        if left_value <= left_value && result_sub + right_value == left_value{
             return Some(result_sub);
         } else {
             return None;

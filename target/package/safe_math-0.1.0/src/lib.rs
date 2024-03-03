@@ -21,8 +21,8 @@ pub mod tests {
     /// function in Rust.
     #[test]
     fn tes_try_sub() {
-        let sub_value = try_sub(20, 10).unwrap_or_default();
-        assert_eq!(sub_value, 2, "<====Wrong value at try sub modules====>");
+        let sub_value = try_sub(20, 2).unwrap_or_default();
+        assert_eq!(sub_value, 18, "<====Wrong value at try sub modules====>");
     }
 
     /// The function `tes_try_mul` tests the `try_mul` function by checking if the result of multiplying
