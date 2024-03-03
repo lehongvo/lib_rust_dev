@@ -4,7 +4,7 @@ version = "0.1.0"
 edition = "2021"
 authors = ["lehongvo"]
 description = "Math operations with safety checks that throw on error"
-repository = "https://github.com/lehongvo/lib_rust_dev/tree/main/src"
+repository = "https://github.com/lehongvo/RUST_BLOCKCHAIN_TUTORIAL/tree/main/library-mod"
 license = "MIT"
 
 [dependencies]

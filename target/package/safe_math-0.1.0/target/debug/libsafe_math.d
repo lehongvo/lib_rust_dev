@@ -1,0 +1,1 @@
+/Users/nguyenductrang/Desktop/Contract/RUST_BLOCKCHAIN_TUTORIAL/library-mod/target/package/safe_math-0.1.0/target/debug/libsafe_math.rlib: /Users/nguyenductrang/Desktop/Contract/RUST_BLOCKCHAIN_TUTORIAL/library-mod/target/package/safe_math-0.1.0/src/lib.rs /Users/nguyenductrang/Desktop/Contract/RUST_BLOCKCHAIN_TUTORIAL/library-mod/target/package/safe_math-0.1.0/src/math/mod.rs
